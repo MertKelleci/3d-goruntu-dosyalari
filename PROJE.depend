@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1572517895 source:c:\users\mert\desktop\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+
+1572023290 source:c:\users\mert\downloads\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+
+1571237828 source:c:\users\mert\downloads\video\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+
